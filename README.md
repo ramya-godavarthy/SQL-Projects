@@ -2,4 +2,5 @@
 ## SQL Case Studies
 
 This repository is case studies by DataWithDanny.com <br>
-Case Study 1: Danny’s Diner
+Case Study 1: Danny’s Diner <br> 
+
